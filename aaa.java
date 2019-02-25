@@ -1,2 +1,11 @@
+<<<<<<< .mine
 qqqqwwwweeeerrrr
-helloworld
+=======
+qqqqwwwweeeerrrr
+>>>>>>> .theirs
+aaa.java
+helloworld<<<<<<< .mine
+
+=======
+hello
+>>>>>>> .theirs
